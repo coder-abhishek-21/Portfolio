@@ -512,7 +512,7 @@ footer {
         .service-card:hover {
             transform: translateY(-5px);
             border-color: var(--primary-color);
-            box-shadow: 0 8px 16px rgba(37, 99, 235, 0.1);
+            box-shadow: 0 8px 16px rgb(249, 103, 25);
         }
 
         .service-icon {
@@ -550,4 +550,3 @@ footer {
   transform: scale(1.1) translateY(-3px);
   box-shadow: 0 8px 20px rgba(255, 60, 0, 0.6);
 }
-
